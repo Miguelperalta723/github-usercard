@@ -122,9 +122,7 @@ function githubCard (object) {
   cardInfo.appendChild(biography)
   
   return card
-
 }
-
 /* List of LS Instructors Github username's: 
   tetondan
   dustinmyers
@@ -132,3 +130,4 @@ function githubCard (object) {
   luishrd
   bigknell
 */
+
